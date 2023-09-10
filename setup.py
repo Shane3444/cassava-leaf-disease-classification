@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "cassava-leaf-disease-classification"
 AUTHOR_USER_NAME = "Shane3444"
-SRC_REPO = "cassava-leaf-disease-classification"
+SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "shourya3444@gmail.com"
 
 setuptools.setup(
@@ -21,6 +21,6 @@ setuptools.setup(
     project_urls = {
         "Bug Tracker" : f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
-    package_dir = {"", "src"},
+    package_dir = {"" : "src"},
     packages = setuptools.find_packages(where = "src")
 )
