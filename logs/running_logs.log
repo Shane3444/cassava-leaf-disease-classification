@@ -1,0 +1,126 @@
+[2023-09-10 17:56:27,084: INFO: main: Welcome]
+[2023-09-15 16:08:30,381: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:08:30,384: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:08:30,388: INFO: common: created directory at artifacts]
+[2023-09-15 16:08:30,389: INFO: common: created directory at artifacts/data_ingestion]
+[2023-09-15 16:09:20,494: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:09:20,497: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:09:20,499: INFO: common: created directory at artifacts]
+[2023-09-15 16:09:20,503: INFO: common: created directory at artifacts/data_ingestion]
+[2023-09-15 16:09:22,384: INFO: 1240721326: artifacts/data_ingestion/data.zip download with following info: 
+Content-Type: text/html; charset=utf-8
+Date: Fri, 15 Sep 2023 10:39:21 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=31acd0f6d9d48d366581c84304b982f0; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThQOYRodtyUpWGTiYFg92RkZMo0vt7nR0hsgfS8QVfacxo0R5F9lBJZzagXqW1ArscpzPayMOLJN0_Ou84AU2Q; path=/; secure; samesite=lax; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThTDmp9x4RSAmcRepul_RprOjifK5DHTJPyUDSLiKVXpF8SvpOfmeABGDM1yOYVKTGrktnq9VzbFEnkDZQx7YrO8ew; path=/; secure; samesite=lax
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOm51bGwsIm5idCI6IjIwMjMtMDktMTVUMTA6Mzk6MjEuNjk5MjcyNVoiLCJpYXQiOiIyMDIzLTA5LTE1VDEwOjM5OjIxLjY5OTI3MjVaIiwianRpIjoiN2RjZGYzMzEtYTk3My00NWM0LTk4OWUtOTIxNjg2Mjc3OThlIiwiZXhwIjoiMjAyMy0xMC0xNVQxMDozOToyMS42OTkyNzI1WiIsImFub24iOnRydWUsImZmIjpbIktlcm5lbHNGaXJlYmFzZUxvbmdQb2xsaW5nIiwiQ29tbXVuaXR5TG93ZXJIZWFkZXJTaXplcyIsIkFsbG93Rm9ydW1BdHRhY2htZW50cyIsIkZyb250ZW5kRXJyb3JSZXBvcnRpbmciLCJSZWdpc3RyYXRpb25OZXdzRW1haWxTaWdudXBJc09wdE91dCIsIkRhdGFzZXRzTWFuYWdlZEZvY3VzT25PcGVuIiwiQ2hhbmdlRGF0YXNldE93bmVyc2hpcFRvT3JnIiwiTWF1UmVwb3J0IiwiTW9kZWxzQ2FjaGVkVGFnU2VydmljZUVuYWJsZWQiLCJEYXRhc2V0c1NoYXJlZFdpdGhUaGVtU2VhcmNoIiwiRGF0YXNldHNWb3RpbmdDaGlwcyIsIk1vZGVsSW5zdGFuY2VSZW5kZXJlZFVzYWdlIiwiUmVjZW50bHlWaWV3ZWRNb2RlbHNTaGVsZiIsIk1vZGVsc09wZW5WZXJ0ZXgiXSwiZmZkIjp7Iktlcm5lbEVkaXRvckF1dG9zYXZlVGhyb3R0bGVNcyI6IjMwMDAwIiwiRnJvbnRlbmRFcnJvclJlcG9ydGluZ1NhbXBsZVJhdGUiOiIwIiwiRW1lcmdlbmN5QWxlcnRCYW5uZXIiOiJ7IH0iLCJDbGllbnRScGNSYXRlTGltaXQiOiI0MCIsIkZlYXR1cmVkQ29tbXVuaXR5Q29tcGV0aXRpb25zIjoiNjAwOTUsNTIzMDAsNTQ4NTkiLCJBZGRGZWF0dXJlRmxhZ3NUb1BhZ2VMb2FkVGFnIjoiZGlzYWJsZWQiLCJDb21wZXRpdGlvbk1ldHJpY1RpbWVvdXRNaW51dGVzIjoiMzAifSwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiI0ODUwNDAwNDJlMzlmZWQxYWIwMGIzZTY5NDdmNDBhODk1ZjZjY2NiIn0.; path=/; secure; samesite=lax
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Turbolinks-Location: https://www.kaggle.com/account/login?returnUrl=%2Fcompetitions%2Fcassava-leaf-disease-classification
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-BwLq3JUQcRpNhm77AwKtYg==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://form.jotform.com https://submit.jotform.us https://submit.jotformpro.com https://submit.jotform.com https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Set-Cookie: GCLB=CN6Yrvea0IyA5gE; path=/; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+
+]
+[2023-09-15 16:10:44,357: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:10:44,360: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:10:44,362: INFO: common: created directory at artifacts]
+[2023-09-15 16:10:44,365: INFO: common: created directory at artifacts/data_ingestion]
+[2023-09-15 16:10:44,367: INFO: 1240721326: File already exists of size: ~ 5 KB]
+[2023-09-15 16:17:40,524: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:17:40,527: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:17:40,529: INFO: common: created directory at artifacts]
+[2023-09-15 16:17:40,533: INFO: common: created directory at artifacts/data_ingestion]
+[2023-09-15 16:17:42,247: INFO: 1240721326: artifacts/data_ingestion/data.zip download with following info: 
+Content-Type: text/html; charset=utf-8
+Date: Fri, 15 Sep 2023 10:47:41 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=a33dd427e733bca5d2dd792f04cc64fb; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThQq34L24UqfQfvvRRizXd6TqswvAIAprVjS3RTRpVr0BQp74i6FfM5StC1XgxDnyBSl4SXN_9nCpckZ2GNi9w; path=/; secure; samesite=lax; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThS5M_4FGlR-BAaydshrksvSreITAsad8jlIKCAyWsoa8dOyrskIzzhV-WW_fe-tZgEiDHsYorR5IbIFBDPrJuGdDw; path=/; secure; samesite=lax
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOm51bGwsIm5idCI6IjIwMjMtMDktMTVUMTA6NDc6NDEuNjIxMDg1M1oiLCJpYXQiOiIyMDIzLTA5LTE1VDEwOjQ3OjQxLjYyMTA4NTNaIiwianRpIjoiZDY1YzBmNDEtMjA0My00MTU4LWExNTgtNTY0NGFhZGVhZTkwIiwiZXhwIjoiMjAyMy0xMC0xNVQxMDo0Nzo0MS42MjEwODUzWiIsImFub24iOnRydWUsImZmIjpbIktlcm5lbHNGaXJlYmFzZUxvbmdQb2xsaW5nIiwiQ29tbXVuaXR5TG93ZXJIZWFkZXJTaXplcyIsIkFsbG93Rm9ydW1BdHRhY2htZW50cyIsIkZyb250ZW5kRXJyb3JSZXBvcnRpbmciLCJSZWdpc3RyYXRpb25OZXdzRW1haWxTaWdudXBJc09wdE91dCIsIkRhdGFzZXRzTWFuYWdlZEZvY3VzT25PcGVuIiwiQ2hhbmdlRGF0YXNldE93bmVyc2hpcFRvT3JnIiwiTWF1UmVwb3J0IiwiTW9kZWxzQ2FjaGVkVGFnU2VydmljZUVuYWJsZWQiLCJEYXRhc2V0c1NoYXJlZFdpdGhUaGVtU2VhcmNoIiwiRGF0YXNldHNWb3RpbmdDaGlwcyIsIk1vZGVsSW5zdGFuY2VSZW5kZXJlZFVzYWdlIiwiUmVjZW50bHlWaWV3ZWRNb2RlbHNTaGVsZiIsIk1vZGVsc09wZW5WZXJ0ZXgiXSwiZmZkIjp7Iktlcm5lbEVkaXRvckF1dG9zYXZlVGhyb3R0bGVNcyI6IjMwMDAwIiwiRnJvbnRlbmRFcnJvclJlcG9ydGluZ1NhbXBsZVJhdGUiOiIwIiwiRW1lcmdlbmN5QWxlcnRCYW5uZXIiOiJ7IH0iLCJDbGllbnRScGNSYXRlTGltaXQiOiI0MCIsIkZlYXR1cmVkQ29tbXVuaXR5Q29tcGV0aXRpb25zIjoiNjAwOTUsNTIzMDAsNTQ4NTkiLCJBZGRGZWF0dXJlRmxhZ3NUb1BhZ2VMb2FkVGFnIjoiZGlzYWJsZWQiLCJDb21wZXRpdGlvbk1ldHJpY1RpbWVvdXRNaW51dGVzIjoiMzAifSwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiI0ODUwNDAwNDJlMzlmZWQxYWIwMGIzZTY5NDdmNDBhODk1ZjZjY2NiIn0.; path=/; secure; samesite=lax
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Turbolinks-Location: https://www.kaggle.com/account/login?returnUrl=%2Fcompetitions%2Fcassava-leaf-disease-classification
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-rhausayxsYYwiTkqeAQPoA==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://form.jotform.com https://submit.jotform.us https://submit.jotformpro.com https://submit.jotform.com https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Set-Cookie: GCLB=CNzqo-fu7PHY9QE; path=/; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+
+]
+[2023-09-15 16:19:07,986: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:19:07,988: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:19:07,990: INFO: common: created directory at artifacts]
+[2023-09-15 16:19:07,993: INFO: common: created directory at artifacts/data_ingestion/]
+[2023-09-15 16:19:09,637: INFO: 1240721326: artifacts/data_ingestion/data.zip download with following info: 
+Content-Type: text/html; charset=utf-8
+Date: Fri, 15 Sep 2023 10:49:08 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=6bdb1244660922163b721d23094122a8; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThTufPnWIxvb1LXlN99qwxgGhyLOYbTZgiIu9OUhRLW1vq67Nzz9EHvVphFEfWfZzO2t3LAQ_pFa4CkQ5HPXTg; path=/; secure; samesite=lax; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThQXuUTHXkqnhBd53CKtyFCuP7u33gXF-bnZBYKzKCmL74IT7jaIpHx3v2qxfc8kANwkfnP401_ycVPE1d-I-0d0Bg; path=/; secure; samesite=lax
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOm51bGwsIm5idCI6IjIwMjMtMDktMTVUMTA6NDk6MDkuMDI3NzA3NloiLCJpYXQiOiIyMDIzLTA5LTE1VDEwOjQ5OjA5LjAyNzcwNzZaIiwianRpIjoiZWQ1NjQ5ZjctOWRkZi00YTU4LTgzZGMtZWFlZDQ4Mjg0Zjk2IiwiZXhwIjoiMjAyMy0xMC0xNVQxMDo0OTowOS4wMjc3MDc2WiIsImFub24iOnRydWUsImZmIjpbIktlcm5lbHNGaXJlYmFzZUxvbmdQb2xsaW5nIiwiQ29tbXVuaXR5TG93ZXJIZWFkZXJTaXplcyIsIkFsbG93Rm9ydW1BdHRhY2htZW50cyIsIkZyb250ZW5kRXJyb3JSZXBvcnRpbmciLCJSZWdpc3RyYXRpb25OZXdzRW1haWxTaWdudXBJc09wdE91dCIsIkRhdGFzZXRzTWFuYWdlZEZvY3VzT25PcGVuIiwiQ2hhbmdlRGF0YXNldE93bmVyc2hpcFRvT3JnIiwiTWF1UmVwb3J0IiwiTW9kZWxzQ2FjaGVkVGFnU2VydmljZUVuYWJsZWQiLCJEYXRhc2V0c1NoYXJlZFdpdGhUaGVtU2VhcmNoIiwiRGF0YXNldHNWb3RpbmdDaGlwcyIsIk1vZGVsSW5zdGFuY2VSZW5kZXJlZFVzYWdlIiwiUmVjZW50bHlWaWV3ZWRNb2RlbHNTaGVsZiIsIk1vZGVsc09wZW5WZXJ0ZXgiXSwiZmZkIjp7Iktlcm5lbEVkaXRvckF1dG9zYXZlVGhyb3R0bGVNcyI6IjMwMDAwIiwiRnJvbnRlbmRFcnJvclJlcG9ydGluZ1NhbXBsZVJhdGUiOiIwIiwiRW1lcmdlbmN5QWxlcnRCYW5uZXIiOiJ7IH0iLCJDbGllbnRScGNSYXRlTGltaXQiOiI0MCIsIkZlYXR1cmVkQ29tbXVuaXR5Q29tcGV0aXRpb25zIjoiNjAwOTUsNTIzMDAsNTQ4NTkiLCJBZGRGZWF0dXJlRmxhZ3NUb1BhZ2VMb2FkVGFnIjoiZGlzYWJsZWQiLCJDb21wZXRpdGlvbk1ldHJpY1RpbWVvdXRNaW51dGVzIjoiMzAifSwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiI0ODUwNDAwNDJlMzlmZWQxYWIwMGIzZTY5NDdmNDBhODk1ZjZjY2NiIn0.; path=/; secure; samesite=lax
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Turbolinks-Location: https://www.kaggle.com/account/login?returnUrl=%2Fcompetitions%2Fcassava-leaf-disease-classification
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-c3h78woOeRduNpWsB6qpCw==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://form.jotform.com https://submit.jotform.us https://submit.jotformpro.com https://submit.jotform.com https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Set-Cookie: GCLB=CLqIqpLK9OnL_AE; path=/; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+
+]
+[2023-09-15 16:24:03,803: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:24:03,806: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:24:03,807: INFO: common: created directory at artifacts]
+[2023-09-15 16:24:03,809: INFO: common: created directory at artifacts/data_ingestion]
+[2023-09-15 16:24:05,541: INFO: 1240721326: artifacts/data_ingestion/data.zip download with following info: 
+Content-Type: text/html; charset=utf-8
+Date: Fri, 15 Sep 2023 10:54:04 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=ecb807a2b07a3d56ce62b8520696c9be; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThSZqTLtnNbDC8Ze0Dj_Oz_YcrFkLAyM-_J_X0AT7rPPrNZLN3SDSBhwRMN__uFEsc_C5DFBnxMleXibJOep3Q; path=/; secure; samesite=lax; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8CZgwPbu9HpPkNrjSx7TThRgHItAkqkK71LX2edShl7856eexr4eD8MSryJV4HBX6oxBH2mlEm2lTgJmQ4o3hCFH4ys6dmJT9QRavtZ9Dfa_Eg; path=/; secure; samesite=lax
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOm51bGwsIm5idCI6IjIwMjMtMDktMTVUMTA6NTQ6MDQuOTM4ODAwM1oiLCJpYXQiOiIyMDIzLTA5LTE1VDEwOjU0OjA0LjkzODgwMDNaIiwianRpIjoiMjU0MTQ2MmQtMzA1Mi00NzJjLThiYWYtN2Q2NjNjOWUxZGEwIiwiZXhwIjoiMjAyMy0xMC0xNVQxMDo1NDowNC45Mzg4MDAzWiIsImFub24iOnRydWUsImZmIjpbIktlcm5lbHNGaXJlYmFzZUxvbmdQb2xsaW5nIiwiQ29tbXVuaXR5TG93ZXJIZWFkZXJTaXplcyIsIkFsbG93Rm9ydW1BdHRhY2htZW50cyIsIkZyb250ZW5kRXJyb3JSZXBvcnRpbmciLCJSZWdpc3RyYXRpb25OZXdzRW1haWxTaWdudXBJc09wdE91dCIsIkRhdGFzZXRzTWFuYWdlZEZvY3VzT25PcGVuIiwiQ2hhbmdlRGF0YXNldE93bmVyc2hpcFRvT3JnIiwiTWF1UmVwb3J0IiwiTW9kZWxzQ2FjaGVkVGFnU2VydmljZUVuYWJsZWQiLCJEYXRhc2V0c1NoYXJlZFdpdGhUaGVtU2VhcmNoIiwiRGF0YXNldHNWb3RpbmdDaGlwcyIsIk1vZGVsSW5zdGFuY2VSZW5kZXJlZFVzYWdlIiwiUmVjZW50bHlWaWV3ZWRNb2RlbHNTaGVsZiIsIk1vZGVsc09wZW5WZXJ0ZXgiXSwiZmZkIjp7Iktlcm5lbEVkaXRvckF1dG9zYXZlVGhyb3R0bGVNcyI6IjMwMDAwIiwiRnJvbnRlbmRFcnJvclJlcG9ydGluZ1NhbXBsZVJhdGUiOiIwIiwiRW1lcmdlbmN5QWxlcnRCYW5uZXIiOiJ7IH0iLCJDbGllbnRScGNSYXRlTGltaXQiOiI0MCIsIkZlYXR1cmVkQ29tbXVuaXR5Q29tcGV0aXRpb25zIjoiNjAwOTUsNTIzMDAsNTQ4NTkiLCJBZGRGZWF0dXJlRmxhZ3NUb1BhZ2VMb2FkVGFnIjoiZGlzYWJsZWQiLCJDb21wZXRpdGlvbk1ldHJpY1RpbWVvdXRNaW51dGVzIjoiMzAifSwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiI0ODUwNDAwNDJlMzlmZWQxYWIwMGIzZTY5NDdmNDBhODk1ZjZjY2NiIn0.; path=/; secure; samesite=lax
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Turbolinks-Location: https://www.kaggle.com/account/login?returnUrl=%2Fcompetitions%2Fcassava-leaf-disease-classification
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-1VVW7RFBArhgmmQXsI6eOA==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://form.jotform.com https://submit.jotform.us https://submit.jotformpro.com https://submit.jotform.com https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Set-Cookie: GCLB=CIeh7d_Cz8uSaw; path=/; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+
+]
+[2023-09-15 16:36:37,997: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:36:38,000: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:36:38,353: INFO: common: created directory at artifacts]
+[2023-09-15 16:36:38,355: INFO: common: created directory at artifacts/data_ingestion]
+[2023-09-15 16:36:57,127: INFO: common: yaml file config\config.yaml loaded succesfully]
+[2023-09-15 16:36:57,131: INFO: common: yaml file params.yaml loaded succesfully]
+[2023-09-15 16:36:57,133: INFO: common: created directory at artifacts]
+[2023-09-15 16:36:57,135: INFO: common: created directory at artifacts/data_ingestion]

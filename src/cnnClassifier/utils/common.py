@@ -9,6 +9,8 @@ from box import ConfigBox
 from pathlib import Path
 from typing import Any
 import base64
+import shutil
+import pandas as pd
 
 @ensure_annotations
 def read_yaml(path_to_yaml : Path) -> ConfigBox:
@@ -131,3 +133,18 @@ def decodeImage(imgstring, fileName):
 def encodeImageIntoBase64(croppedImagePath):
     with open(croppedImagePath, 'rb') as f:
         return base64.b64encode(f.read())
+
+def seperate_and_move_images(filepath = "artifacts/data_ingestion/"):
+    """
+    Given the filepath, move the images into seperate directories based on the class labels given in a csv file
+    """
+    try:
+        data_dict = pd.read_csv(filepath + "train.csv")
+        unique_labels = sorted(data_dict.label.unique())
+        os.chdir(filepath + "train_images/")
+        for label in unique_labels:
+            os.makedirs(str(label))
+        for i in range(len(data_dict)):
+            shutil.move(data_dict.iloc[i].image_id, f"{data_dict.iloc[i].label}/")
+    except Exception as e:
+        raise e
